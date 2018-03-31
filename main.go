@@ -8,7 +8,6 @@ import (
 	"log"
 	"strconv"
 	"reflect"
-	"strings"
 	"context"
 	"cloud.google.com/go/bigtable"
 	"github.com/pborman/uuid"
