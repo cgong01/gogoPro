@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa70714d-c001-4f56-93bd-84f9714e6fca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__service_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__service_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,30 +20,42 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3078">
-              <caret line="100" column="41" lean-forward="false" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
-                <element signature="e#14#280#0" expanded="true" />
+                <element signature="e#14#376#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.yaml">
+      <file leaf-file-name="user.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="e#14#151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>url</find>
+      <find>image</find>
+      <find>es_url</find>
+      <find>loginHandler</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,6 +70,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/user.go" />
         <option value="$PROJECT_DIR$/main.go" />
       </list>
     </option>
@@ -158,6 +169,7 @@
     <property name="configurable.Project.libraries.is.expanded" value="true" />
     <property name="configurable.Module.libraries.is.expanded" value="false" />
     <property name="FullScreen" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
   </component>
   <component name="RunManager" selected="Go Application.Build main.go and run">
     <configuration default="false" name="Build main.go and run" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -488,7 +500,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -506,7 +518,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -524,7 +536,7 @@
         <state relative-caret-position="2363">
           <caret line="150" column="39" lean-forward="false" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -542,7 +554,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -560,7 +572,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -578,7 +590,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -588,7 +600,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,7 +610,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -608,7 +620,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,7 +630,7 @@
         <state relative-caret-position="960">
           <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -628,7 +640,7 @@
         <state relative-caret-position="600">
           <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -638,7 +650,7 @@
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -648,7 +660,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -658,17 +670,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3078">
-          <caret line="100" column="41" lean-forward="false" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="41" />
-          <folding>
-            <element signature="e#14#280#0" expanded="true" />
+            <element signature="e#14#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,6 +680,34 @@
         <state relative-caret-position="17">
           <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/gopkg.in/olivere/elastic.v3/search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5644">
+          <caret line="341" column="24" lean-forward="false" selection-start-line="341" selection-start-column="24" selection-end-line="341" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#376#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
